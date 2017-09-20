@@ -1,10 +1,10 @@
 
 Part 1: Hangperson
 ===========================================================================
-With all this machinery in mind, clone this repo into Cloud9, and let's work on Hangperson.
+With all this machinery in mind, clone this repo into Cloud9, and let's work on Hangperson. First fork this repo to your GitHub.
 
 ```sh
-$ git clone https://github.com/rilson17/hw-sinatra-saas-hangperson
+$ git clone https://github.com/your-username-here/hw-sinatra-saas-hangperson
 $ cd hw-sinatra-saas-hangperson
 $ bundle
 ```
