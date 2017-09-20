@@ -16,7 +16,7 @@ Happily, Ruby has a wonderful system for managing gem dependencies: a gem called
 
 Let's start with the following steps:
 
-* Create a new empty directory to hold your new app, and use `git init` in that directory to start versioning it with Git.
+* Create a new empty directory to hold your new app, and use `git init` in that directory to start versioning it with Git. (WARNING: Do not run `git init` in your top level directory, only use it in the folder you just created.)
 
 * In that directory, create a new file called `Gemfile` (the capitalization is important) with the following contents.  This file will be a permanent part of your app and will travel with your app anywhere it goes:
 
